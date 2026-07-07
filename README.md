@@ -30,7 +30,7 @@ SQL/
 README.md
 ```
 
-## Team Members
+### Team Members
 
 - Divy Modi
 - Muneet Sadhwani
