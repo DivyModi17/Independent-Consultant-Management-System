@@ -35,7 +35,7 @@ README.md
 - Divy Modi
 - Muneet Sadhwani
 - Mrunali Parmar
-- Manali Malani 
+- Manali Malani
 - Katuri Anushree
 - Palash Sachdev
   
